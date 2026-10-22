@@ -1,0 +1,8 @@
+{
+  "name": "휴대폰 시뮬레이터",
+  "description": "아이폰 감성의 완벽한 인터랙티브 가상 스마트폰 시뮬레이터. 전화, 메시지, 카카오톡, 메모, 사진첩, 인스타그램, 에브리타임, 지뢰찾기, 캘린더, 설정 등 다양한 앱을 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
